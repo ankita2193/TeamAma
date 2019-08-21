@@ -1,0 +1,18 @@
+{
+	"Request":{
+		"PNR": "S3NDZF",
+		"Host": "http://193.23.185.67:25025",
+		"Resource": "/1ASIUJCPTRUSTU/v2/purchase/orders/",
+		"Content-Type": "text/xml",
+		"Authorization": "1AAuth eyJ1c2VySWQiOiJXU0FDSUJFIiwib2ZmaWNlSWQiOiJZVUxBQzA4QUEifQ==",
+		"passengerTypeCode" : "ADT",
+		"firstName1" : "Adultfirstnamea",
+		"lastName1" : "Adultlastnameavbsj"
+		"firstName2" : "Adultfirstnameb",
+		"lastName2" : "Adultlastnamebywnu",
+		"paymentType": "PaymentCard",
+		 "vendorCode": "CA",
+		 "expiryDate": "1020",
+         "holderName": "AirCanada"
+	}		
+}
